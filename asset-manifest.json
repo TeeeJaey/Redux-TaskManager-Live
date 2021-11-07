@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://teeejaey.github.io/csb-mlu79/static/css/main.11033926.chunk.css",
+    "main.js": "https://teeejaey.github.io/csb-mlu79/static/js/main.c84bce6d.chunk.js",
+    "main.js.map": "https://teeejaey.github.io/csb-mlu79/static/js/main.c84bce6d.chunk.js.map",
+    "runtime-main.js": "https://teeejaey.github.io/csb-mlu79/static/js/runtime-main.652286ef.js",
+    "runtime-main.js.map": "https://teeejaey.github.io/csb-mlu79/static/js/runtime-main.652286ef.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "https://teeejaey.github.io/csb-mlu79/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.808c1b03.chunk.js": "https://teeejaey.github.io/csb-mlu79/static/js/2.808c1b03.chunk.js",
+    "static/js/2.808c1b03.chunk.js.map": "https://teeejaey.github.io/csb-mlu79/static/js/2.808c1b03.chunk.js.map",
+    "index.html": "https://teeejaey.github.io/csb-mlu79/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "https://teeejaey.github.io/csb-mlu79/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.11033926.chunk.css.map": "https://teeejaey.github.io/csb-mlu79/static/css/main.11033926.chunk.css.map",
+    "static/js/2.808c1b03.chunk.js.LICENSE.txt": "https://teeejaey.github.io/csb-mlu79/static/js/2.808c1b03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.652286ef.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.808c1b03.chunk.js",
+    "static/css/main.11033926.chunk.css",
+    "static/js/main.c84bce6d.chunk.js"
+  ]
+}
